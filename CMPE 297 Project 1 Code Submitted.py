@@ -1,5 +1,5 @@
 import numpy as np
-import cv2 as cv #code uses OpenCV 4.1.0
+import cv2 as cv    #code uses OpenCV 4.1.0
 import keras
 
 way = input("loading method: ")
