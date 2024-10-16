@@ -2,7 +2,7 @@ Real-Time Handwritten Multi-Digit Recognition
 
 Code uses OpenCV v. 4.1.0
 
-Built a feedforward neural network (FNN) to classify MNIST dataset using Keras.  
+Built a feedforward neural network (FNN) with 1 hidden layer to classify MNIST dataset using Keras.  
 Can classify digits even when rotated up to 45º.
 
 First build the FNN in "CMPE 297 train summary save.ipynb".  
