@@ -3,6 +3,7 @@ Real-Time Handwritten Multi-Digit Recognition
 Code uses OpenCV v. 4.1.0
 
 Built a feedforward neural network (FNN) to classify MNIST dataset using Keras. 
+
 98.13% accuracy was achieved on classifying images in test dataset.
 
 FNN has 1 hidden layer.
