@@ -12,4 +12,5 @@ In "CMPE 297 train summary save.ipynb", you will save the FNN model you have bui
 Both of these files are provided.
 
 You can then load either "mnist.h5" or "model.h5" in "CMPE 297 Project 1 Code Submitted.py" or "video_test.py" to classify digits in images, videos, or in real-time.
+
 Photos of rotated hand-written digits detected are provided in the "Digits Detected" folder.
