@@ -7,7 +7,7 @@ Built a feedforward neural network (FNN) to classify MNIST dataset using Keras.
 98.13% accuracy was achieved on classifying images in test dataset.
 
 FNN has 1 hidden layer.
-It can classify digits even when rotated up to 45º.
+It can classify digits even when rotated up to 45º, although accuracy decreases as rotation increases.
 
 First build the FNN in "CMPE 297 train summary save.ipynb".  
 
